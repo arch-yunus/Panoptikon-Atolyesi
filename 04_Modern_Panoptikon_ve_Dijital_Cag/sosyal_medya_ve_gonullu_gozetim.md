@@ -1,16 +1,16 @@
-# Sosyal Medya ve Gönüllü Gözetim (Participatory Panopticon)
+﻿# Sosyal Medya ve GÃ¶nÃ¼llÃ¼ GÃ¶zetim (Participatory Panopticon)
 
-## 1. Gardiyanın Yokluğu: Biz Bize Gözetim
-Geleneksel Panoptikon'da merkezde bir gardiyan kulesi vardı. Sosyal medyada ise gardiyan koltuğunda biz oturuyoruz. Birbirimizi beğenilerle, yorumlarla ve "takiple" sürekli gözetliyor, normun dışına çıkanları linç veya dışlama yoluyla cezalandırıyoruz. Bu, gözetimin yataylaşıp topluma yayılmasıdır.
+## 1. GardiyanÄ±n YokluÄŸu: Biz Bize GÃ¶zetim
+Geleneksel Panoptikon'da merkezde bir gardiyan kulesi vardÄ±. Sosyal medyada ise gardiyan koltuÄŸunda biz oturuyoruz. Birbirimizi beÄŸenilerle, yorumlarla ve "takiple" sÃ¼rekli gÃ¶zetliyor, normun dÄ±ÅŸÄ±na Ã§Ä±kanlarÄ± linÃ§ veya dÄ±ÅŸlama yoluyla cezalandÄ±rÄ±yoruz. Bu, gÃ¶zetimin yataylaÅŸÄ±p topluma yayÄ±lmasÄ±dÄ±r.
 
-## 2. Gönüllü İtiraf: Paylaşma Arzusu
-Foucault'nun "itiraf" (confession) kavramı sosyal medyada en uç noktasına ulaşır. Eskiden zorla veya dini bir yükümlülükle yapılan itiraf; günümüzde "hikaye atma", "konum paylaşma" ve "durum güncelleme" adı altında gönüllü bir arzuya dönüşmüştür. Özelliğimizi kamusallaştırarak kendimizi iktidarın (ve reklamcılık ekosisteminin) görünürlüğüne teslim ederiz.
+## 2. GÃ¶nÃ¼llÃ¼ Ä°tiraf: PaylaÅŸma Arzusu
+Foucault'nun "itiraf" (confession) kavramÄ± sosyal medyada en uÃ§ noktasÄ±na ulaÅŸÄ±r. Eskiden zorla veya dini bir yÃ¼kÃ¼mlÃ¼lÃ¼kle yapÄ±lan itiraf; gÃ¼nÃ¼mÃ¼zde "hikaye atma", "konum paylaÅŸma" ve "durum gÃ¼ncelleme" adÄ± altÄ±nda gÃ¶nÃ¼llÃ¼ bir arzuya dÃ¶nÃ¼ÅŸmÃ¼ÅŸtÃ¼r. Ã–zelliÄŸimizi kamusallaÅŸtÄ±rarak kendimizi iktidarÄ±n (ve reklamcÄ±lÄ±k ekosisteminin) gÃ¶rÃ¼nÃ¼rlÃ¼ÄŸÃ¼ne teslim ederiz.
 
-## 3. Görünürlük Bir Şart Olarak
-*"Görünürlük bir tuzaktır"* demişti Foucault. Bugün ise görünmemek bir yokluktur. Sosyal medyada aktif olmayan birey, ekonomik ve sosyal sermayeden mahrum kalma riskiyle karşı karşıyadır. Bu durum, bireyi panoptik sisteme dahil olmaya zorlayan yumuşak ama etkili bir güçtür.
+## 3. GÃ¶rÃ¼nÃ¼rlÃ¼k Bir Åart Olarak
+*"GÃ¶rÃ¼nÃ¼rlÃ¼k bir tuzaktÄ±r"* demiÅŸti Foucault. BugÃ¼n ise gÃ¶rÃ¼nmemek bir yokluktur. Sosyal medyada aktif olmayan birey, ekonomik ve sosyal sermayeden mahrum kalma riskiyle karÅŸÄ± karÅŸÄ±yadÄ±r. Bu durum, bireyi panoptik sisteme dahil olmaya zorlayan yumuÅŸak ama etkili bir gÃ¼Ã§tÃ¼r.
 
-## 4. Teşhir ve Gözetim Arasındaki İnce Çizgi
-Özel hayatın teşhiri (exhibitionism) ve başkalarını gözetleme (voyeurism) arasındaki denge, sosyal medyanın motorudur. Kendimizi sergilediğimiz her an, aynı zamanda verilerimizi biyo-iktidarın ve algoritmik sistemlerin işlemesi için birer hammadde olarak sunarız. Dijital panoptikon, bizim rızamızla ve ellerimizle inşa edilmektedir.
+## 4. TeÅŸhir ve GÃ¶zetim ArasÄ±ndaki Ä°nce Ã‡izgi
+Ã–zel hayatÄ±n teÅŸhiri (exhibitionism) ve baÅŸkalarÄ±nÄ± gÃ¶zetleme (voyeurism) arasÄ±ndaki denge, sosyal medyanÄ±n motorudur. Kendimizi sergilediÄŸimiz her an, aynÄ± zamanda verilerimizi biyo-iktidarÄ±n ve algoritmik sistemlerin iÅŸlemesi iÃ§in birer hammadde olarak sunarÄ±z. Dijital panoptikon, bizim rÄ±zamÄ±zla ve ellerimizle inÅŸa edilmektedir.
 
 ---
-*Bu belge Panoptikon-Atölyesi kapsamında oluşturulmuştur.*
+*Bu belge Panoptikon-AtÃ¶lyesi kapsamÄ±nda oluÅŸturulmuÅŸtur.*

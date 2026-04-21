@@ -1,28 +1,28 @@
-# Yönetimselliğin (Governmentality) Soyağacı
+﻿# YÃ¶netimselliÄŸin (Governmentality) SoyaÄŸacÄ±
 
-Foucault, 1978 ve 1979 derslerinde, Batı dünyasında iktidarın nasıl "yönetim" odaklı hale geldiğinin izini sürer. Bu soyağacı, devletin sadece bir egemenlik aygıtı olmadığını, çok daha köklü bir zihniyet dönüşümünün ürünü olduğunu gösterir.
+Foucault, 1978 ve 1979 derslerinde, BatÄ± dÃ¼nyasÄ±nda iktidarÄ±n nasÄ±l "yÃ¶netim" odaklÄ± hale geldiÄŸinin izini sÃ¼rer. Bu soyaÄŸacÄ±, devletin sadece bir egemenlik aygÄ±tÄ± olmadÄ±ÄŸÄ±nÄ±, Ã§ok daha kÃ¶klÃ¼ bir zihniyet dÃ¶nÃ¼ÅŸÃ¼mÃ¼nÃ¼n Ã¼rÃ¼nÃ¼ olduÄŸunu gÃ¶sterir.
 
-## 1. Çobanıl (Pastoral) İktidar (1.-16. Yüzyıl)
-Yönetimselliğin kökeni devlette değil, kilisededir. Hristiyanlık, "çobanın koyunlarını gütmesi" modelini getirmiştir. Bu modelde iktidar:
-*   Kolektif değil, bireyseldir (her koyunla tek tek ilgilenir).
-*   Selamet (salvation) odaklıdır.
-*   Bireyin tüm iç dünyasını, itiraflarını ve vicdanını denetler.
+## 1. Ã‡obanÄ±l (Pastoral) Ä°ktidar (1.-16. YÃ¼zyÄ±l)
+YÃ¶netimselliÄŸin kÃ¶keni devlette deÄŸil, kilisededir. HristiyanlÄ±k, "Ã§obanÄ±n koyunlarÄ±nÄ± gÃ¼tmesi" modelini getirmiÅŸtir. Bu modelde iktidar:
+*   Kolektif deÄŸil, bireyseldir (her koyunla tek tek ilgilenir).
+*   Selamet (salvation) odaklÄ±dÄ±r.
+*   Bireyin tÃ¼m iÃ§ dÃ¼nyasÄ±nÄ±, itiraflarÄ±nÄ± ve vicdanÄ±nÄ± denetler.
 
-## 2. Devlet Aklı (Raison d'État) (16.-18. Yüzyıl)
-Modern devletin doğuşuyla iktidar, dinsel amaçlardan koparak kendi varlığını sürdürme amacına (Devlet Aklı) odaklanır. Bu dönemde:
-*   **Polis (Polizei):** Bugünkü anlamda değil; devletin zenginliğini, nüfusun mutluluğunu ve düzenini sağlayan geniş bir idari mekanizma olarak doğar.
-*   Devlet, artık kendi kendisinin amacıdır.
+## 2. Devlet AklÄ± (Raison d'Ã‰tat) (16.-18. YÃ¼zyÄ±l)
+Modern devletin doÄŸuÅŸuyla iktidar, dinsel amaÃ§lardan koparak kendi varlÄ±ÄŸÄ±nÄ± sÃ¼rdÃ¼rme amacÄ±na (Devlet AklÄ±) odaklanÄ±r. Bu dÃ¶nemde:
+*   **Polis (Polizei):** BugÃ¼nkÃ¼ anlamda deÄŸil; devletin zenginliÄŸini, nÃ¼fusun mutluluÄŸunu ve dÃ¼zenini saÄŸlayan geniÅŸ bir idari mekanizma olarak doÄŸar.
+*   Devlet, artÄ±k kendi kendisinin amacÄ±dÄ±r.
 
-## 3. Liberalizm ve Nüfusun Keşfi (18.-20. Yüzyıl)
-18. yüzyılda "ekonomi" ve "nüfus" kavramlarının keşfiyle yönetim biçimi değişir. "Fazla yönetmek" bir sorun olarak görülmeye başlanır. İktidar artık piyasa mekanizmalarını ve nüfusun doğal dinamiklerini (doğum, ölüm, hastalık) bir güvenlik meselesi olarak ele alır.
+## 3. Liberalizm ve NÃ¼fusun KeÅŸfi (18.-20. YÃ¼zyÄ±l)
+18. yÃ¼zyÄ±lda "ekonomi" ve "nÃ¼fus" kavramlarÄ±nÄ±n keÅŸfiyle yÃ¶netim biÃ§imi deÄŸiÅŸir. "Fazla yÃ¶netmek" bir sorun olarak gÃ¶rÃ¼lmeye baÅŸlanÄ±r. Ä°ktidar artÄ±k piyasa mekanizmalarÄ±nÄ± ve nÃ¼fusun doÄŸal dinamiklerini (doÄŸum, Ã¶lÃ¼m, hastalÄ±k) bir gÃ¼venlik meselesi olarak ele alÄ±r.
 
-## 4. Neoliberalizm ve Girişimci Öznenin İnşası
-20. yüzyılın ikinci yarısında yönetimsel akıl, piyasa mantığını hayatın tüm hücrelerine yayar. Artık sadece devlet yönetilmez; bireyler de kendi hayatlarının "girişimcisi" olarak kendilerini yönetmek zorundadırlar. Sosyal politikalar yerini risk yönetimine bırakır.
+## 4. Neoliberalizm ve GiriÅŸimci Ã–znenin Ä°nÅŸasÄ±
+20. yÃ¼zyÄ±lÄ±n ikinci yarÄ±sÄ±nda yÃ¶netimsel akÄ±l, piyasa mantÄ±ÄŸÄ±nÄ± hayatÄ±n tÃ¼m hÃ¼crelerine yayar. ArtÄ±k sadece devlet yÃ¶netilmez; bireyler de kendi hayatlarÄ±nÄ±n "giriÅŸimcisi" olarak kendilerini yÃ¶netmek zorundadÄ±rlar. Sosyal politikalar yerini risk yÃ¶netimine bÄ±rakÄ±r.
 
-## 5. Özet: Yönetimsellik Çizgisi
-*   **16. Yüzyıl:** "Nasıl yönetilmeli?" sorusunun ortaya çıkışı.
-*   **18. Yüzyıl:** Yönetimin nesnesi olarak "Nüfus"un inşası.
-*   **20. Yüzyıl:** Yönetimin teknolojisi olarak "Piyasa"nın mutlaklaşması.
+## 5. Ã–zet: YÃ¶netimsellik Ã‡izgisi
+*   **16. YÃ¼zyÄ±l:** "NasÄ±l yÃ¶netilmeli?" sorusunun ortaya Ã§Ä±kÄ±ÅŸÄ±.
+*   **18. YÃ¼zyÄ±l:** YÃ¶netimin nesnesi olarak "NÃ¼fus"un inÅŸasÄ±.
+*   **20. YÃ¼zyÄ±l:** YÃ¶netimin teknolojisi olarak "Piyasa"nÄ±n mutlaklaÅŸmasÄ±.
 
 ---
-*Bu çalışma Panoptikon-Atölyesi kapsamında 03_Soykutuk_Arastirmalari dizini için hazırlanmıştır.*
+*Bu Ã§alÄ±ÅŸma Panoptikon-AtÃ¶lyesi kapsamÄ±nda 03_Soykutuk_Arastirmalari dizini iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r.*

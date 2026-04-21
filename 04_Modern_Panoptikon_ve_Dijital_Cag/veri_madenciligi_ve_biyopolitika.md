@@ -1,18 +1,18 @@
-# Veri Madenciliği ve Dijital Biyopolitika
+﻿# Veri MadenciliÄŸi ve Dijital Biyopolitika
 
-## 1. Biyo-iktidarın Dijital Dönüşümü
-Geleneksel biyo-iktidar, nüfusu klinik veriler ve fiziksel sayımlar üzerinden yönetiyordu. Günümüzde bu süreç, **büyük veri (big data)** ve **veri madenciliği** aracılığıyla dijital bir boyuta taşınmıştır. İktidar artık sadece bedenin sağlığıyla değil, bedenin dijital izleriyle (tüketim alışkanlıkları, hareket verileri, genetik veritabanları) ilgilenir.
+## 1. Biyo-iktidarÄ±n Dijital DÃ¶nÃ¼ÅŸÃ¼mÃ¼
+Geleneksel biyo-iktidar, nÃ¼fusu klinik veriler ve fiziksel sayÄ±mlar Ã¼zerinden yÃ¶netiyordu. GÃ¼nÃ¼mÃ¼zde bu sÃ¼reÃ§, **bÃ¼yÃ¼k veri (big data)** ve **veri madenciliÄŸi** aracÄ±lÄ±ÄŸÄ±yla dijital bir boyuta taÅŸÄ±nmÄ±ÅŸtÄ±r. Ä°ktidar artÄ±k sadece bedenin saÄŸlÄ±ÄŸÄ±yla deÄŸil, bedenin dijital izleriyle (tÃ¼ketim alÄ±ÅŸkanlÄ±klarÄ±, hareket verileri, genetik veritabanlarÄ±) ilgilenir.
 
-## 2. Sayısal Birey: Divitüel (Dividual)
-Gilles Deleuze'ün Foucault'dan yola çıkarak kavramsallaştırdığı üzere, disiplin toplumundaki "birey" yerini kontrol toplumundaki **"divitüel"**e (bölünebilir parçalara) bırakmıştır. Veri madenciliği bizi bir bütün olarak değil; tıklama oranlarımız, kredi skorlarımız ve ilgi alanlarımız gibi veri setleri olarak parçalar ve yönetir.
+## 2. SayÄ±sal Birey: DivitÃ¼el (Dividual)
+Gilles Deleuze'Ã¼n Foucault'dan yola Ã§Ä±karak kavramsallaÅŸtÄ±rdÄ±ÄŸÄ± Ã¼zere, disiplin toplumundaki "birey" yerini kontrol toplumundaki **"divitÃ¼el"**e (bÃ¶lÃ¼nebilir parÃ§alara) bÄ±rakmÄ±ÅŸtÄ±r. Veri madenciliÄŸi bizi bir bÃ¼tÃ¼n olarak deÄŸil; tÄ±klama oranlarÄ±mÄ±z, kredi skorlarÄ±mÄ±z ve ilgi alanlarÄ±mÄ±z gibi veri setleri olarak parÃ§alar ve yÃ¶netir.
 
-## 3. Tahmin Edici Yönetimsellik
-Dijital biyopolitika, olayların olmasını beklemek yerine onları tahmin etmeye odaklanır.
-*   **Sağlık:** Hastalık risklerinin genetik veri madenciliğiyle önceden tespiti ve sigorta primlerinin buna göre düzenlenmesi.
-*   **Güvenlik:** Suç işleme potansiyeli olan bölgelerin ve kişilerin algoritmik olarak izlenmesi.
+## 3. Tahmin Edici YÃ¶netimsellik
+Dijital biyopolitika, olaylarÄ±n olmasÄ±nÄ± beklemek yerine onlarÄ± tahmin etmeye odaklanÄ±r.
+*   **SaÄŸlÄ±k:** HastalÄ±k risklerinin genetik veri madenciliÄŸiyle Ã¶nceden tespiti ve sigorta primlerinin buna gÃ¶re dÃ¼zenlenmesi.
+*   **GÃ¼venlik:** SuÃ§ iÅŸleme potansiyeli olan bÃ¶lgelerin ve kiÅŸilerin algoritmik olarak izlenmesi.
 
-## 4. Modern Nüfus Yönetimi
-İktidar, veri madenciliğini kullanarak nüfusu mikro-gruplara ayırır. Sosyal yardımların kime gideceği, hangi bölgeye yatırım yapılacağı veya hangi siyasi reklamın kime gösterileceği artık bu dijital biyopolitika araçlarıyla belirlenir.
+## 4. Modern NÃ¼fus YÃ¶netimi
+Ä°ktidar, veri madenciliÄŸini kullanarak nÃ¼fusu mikro-gruplara ayÄ±rÄ±r. Sosyal yardÄ±mlarÄ±n kime gideceÄŸi, hangi bÃ¶lgeye yatÄ±rÄ±m yapÄ±lacaÄŸÄ± veya hangi siyasi reklamÄ±n kime gÃ¶sterileceÄŸi artÄ±k bu dijital biyopolitika araÃ§larÄ±yla belirlenir.
 
 ---
-*Bu belge Panoptikon-Atölyesi kapsamında oluşturulmuştur.*
+*Bu belge Panoptikon-AtÃ¶lyesi kapsamÄ±nda oluÅŸturulmuÅŸtur.*

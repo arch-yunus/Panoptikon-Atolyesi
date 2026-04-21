@@ -1,21 +1,21 @@
-# Yapay Zekâ ve Söylem Üretimi: Yeni Hakikat Rejimleri
+﻿# Yapay ZekÃ¢ ve SÃ¶ylem Ãœretimi: Yeni Hakikat Rejimleri
 
-Yapay zekâ (AI), özellikle Büyük Dil Modelleri (LLM), sadece veriyi işlemekle kalmaz; Foucaultyen anlamda yeni **"hakikat rejimleri"** (regimes of truth) inşa eder. AI, neyin "makul", "doğru" ve "söylenebilir" olduğunu belirleyen otomatik bir söylem üretim makinesidir.
+Yapay zekÃ¢ (AI), Ã¶zellikle BÃ¼yÃ¼k Dil Modelleri (LLM), sadece veriyi iÅŸlemekle kalmaz; Foucaultyen anlamda yeni **"hakikat rejimleri"** (regimes of truth) inÅŸa eder. AI, neyin "makul", "doÄŸru" ve "sÃ¶ylenebilir" olduÄŸunu belirleyen otomatik bir sÃ¶ylem Ã¼retim makinesidir.
 
 ## 1. Algoritmik Episteme
-Foucault'nun "Episteme" kavramı, bir çağda bilgiyi mümkün kılan yapıdır. Modern çağda bu yapı, veritabanları ve ağırlıklı sinir ağları tarafından belirlenen bir **"Algoritmik Episteme"**ye dönüşmüştür. AI modelleri, kendilerine verilen devasa veri yığınlarındaki en yüksek olasılıklı dizilimleri çıkararak, toplumsal "doğru"yu istatistiksel bir ortalamaya indirger.
+Foucault'nun "Episteme" kavramÄ±, bir Ã§aÄŸda bilgiyi mÃ¼mkÃ¼n kÄ±lan yapÄ±dÄ±r. Modern Ã§aÄŸda bu yapÄ±, veritabanlarÄ± ve aÄŸÄ±rlÄ±klÄ± sinir aÄŸlarÄ± tarafÄ±ndan belirlenen bir **"Algoritmik Episteme"**ye dÃ¶nÃ¼ÅŸmÃ¼ÅŸtÃ¼r. AI modelleri, kendilerine verilen devasa veri yÄ±ÄŸÄ±nlarÄ±ndaki en yÃ¼ksek olasÄ±lÄ±klÄ± dizilimleri Ã§Ä±kararak, toplumsal "doÄŸru"yu istatistiksel bir ortalamaya indirger.
 
-## 2. Söylemin Otomasyonu ve Dışlama Mekanizmaları
-AI, hangi bilgilerin ön plana çıkarılacağını ve hangilerinin "halüsinasyon" veya "yanlış bilgi" olarak filtreleneceğini belirleyerek söylemi denetler. Bu, Foucault'nun *Söylemin Düzeni*nde bahsettiği dışlama mekanizmalarının (yasaklama, delilik ayrımı, hakikat istemi) yazılım kodlarıyla otomatikleşmiş halidir. AI sistemi, "aykırı" veya "marjinal" söylemleri düşük olasılıklı olarak gördüğü için sessizce saf dışı bırakabilir.
+## 2. SÃ¶ylemin Otomasyonu ve DÄ±ÅŸlama MekanizmalarÄ±
+AI, hangi bilgilerin Ã¶n plana Ã§Ä±karÄ±lacaÄŸÄ±nÄ± ve hangilerinin "halÃ¼sinasyon" veya "yanlÄ±ÅŸ bilgi" olarak filtreleneceÄŸini belirleyerek sÃ¶ylemi denetler. Bu, Foucault'nun *SÃ¶ylemin DÃ¼zeni*nde bahsettiÄŸi dÄ±ÅŸlama mekanizmalarÄ±nÄ±n (yasaklama, delilik ayrÄ±mÄ±, hakikat istemi) yazÄ±lÄ±m kodlarÄ±yla otomatikleÅŸmiÅŸ halidir. AI sistemi, "aykÄ±rÄ±" veya "marjinal" sÃ¶ylemleri dÃ¼ÅŸÃ¼k olasÄ±lÄ±klÄ± olarak gÃ¶rdÃ¼ÄŸÃ¼ iÃ§in sessizce saf dÄ±ÅŸÄ± bÄ±rakabilir.
 
-## 3. Uzmanlık Söyleminin Yer Değiştirmesi
-Daha önce tıp, psikiyatri veya hukuk gibi alanlardaki "uzmanlar" (insan özneler) hakikati söyleme otoritesine sahipti. Bugün bu otorite yavaş yavaş AI sistemlerine devrediliyor. AI tarafından üretilen tıbbi teşhis veya hukuki analiz, insandan daha "nesnel" ve "hakiki" kabul edildiği ölçüde, yeni bir biyo-iktidar aracı haline gelir.
+## 3. UzmanlÄ±k SÃ¶yleminin Yer DeÄŸiÅŸtirmesi
+Daha Ã¶nce tÄ±p, psikiyatri veya hukuk gibi alanlardaki "uzmanlar" (insan Ã¶zneler) hakikati sÃ¶yleme otoritesine sahipti. BugÃ¼n bu otorite yavaÅŸ yavaÅŸ AI sistemlerine devrediliyor. AI tarafÄ±ndan Ã¼retilen tÄ±bbi teÅŸhis veya hukuki analiz, insandan daha "nesnel" ve "hakiki" kabul edildiÄŸi Ã¶lÃ§Ã¼de, yeni bir biyo-iktidar aracÄ± haline gelir.
 
-## 4. Öznenin Yapay Zekâ Tarafından İnşası
-AI sadece bize bilgi vermez, aynı zamanda kim olduğumuzu da söyler. Kişiselleştirilmiş öneriler, algoritmik psikolojik analizler ve sosyal kredi skorları; bireyi belirli kategorilere hapseder. Birey, AI'nın çizdiği bu "dijital ikiz"ine uyum sağlamaya çalışırken, kendi öznelliğini sistemin normlarına göre yeniden inşa eder.
+## 4. Ã–znenin Yapay ZekÃ¢ TarafÄ±ndan Ä°nÅŸasÄ±
+AI sadece bize bilgi vermez, aynÄ± zamanda kim olduÄŸumuzu da sÃ¶yler. KiÅŸiselleÅŸtirilmiÅŸ Ã¶neriler, algoritmik psikolojik analizler ve sosyal kredi skorlarÄ±; bireyi belirli kategorilere hapseder. Birey, AI'nÄ±n Ã§izdiÄŸi bu "dijital ikiz"ine uyum saÄŸlamaya Ã§alÄ±ÅŸÄ±rken, kendi Ã¶znelliÄŸini sistemin normlarÄ±na gÃ¶re yeniden inÅŸa eder.
 
-## Sonuç
-Yapay zekâ, insan sonrası bir Panoptikon'dur. Burada gardiyan sadece izlemekle kalmaz, aynı zamanda mahkumun her hücresini (kelimesini, düşüncesini) önceden tahmin ederek ve şekillendirerek "normal" olanı sessizce ve her an yeniden üretir.
+## SonuÃ§
+Yapay zekÃ¢, insan sonrasÄ± bir Panoptikon'dur. Burada gardiyan sadece izlemekle kalmaz, aynÄ± zamanda mahkumun her hÃ¼cresini (kelimesini, dÃ¼ÅŸÃ¼ncesini) Ã¶nceden tahmin ederek ve ÅŸekillendirerek "normal" olanÄ± sessizce ve her an yeniden Ã¼retir.
 
 ---
-*Bu analiz Panoptikon-Atölyesi kapsamında 04_Modern_Panoptikon_ve_Dijital_Cag dizini için hazırlanmıştır.*
+*Bu analiz Panoptikon-AtÃ¶lyesi kapsamÄ±nda 04_Modern_Panoptikon_ve_Dijital_Cag dizini iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r.*

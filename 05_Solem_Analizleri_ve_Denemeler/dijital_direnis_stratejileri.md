@@ -1,23 +1,23 @@
-# Dijital Panoptikon'da Direniş Stratejileri
+﻿# Dijital Panoptikon'da DireniÅŸ Stratejileri
 
-[ ← Ana Sayfaya Dön ](../README.md)
+[ â† Ana Sayfaya DÃ¶n ](../README.md)
 
-Eğer iktidar "mikro-fizik" ise ve kılcal damarlarımıza kadar sızmışsa, ona karşı direniş de aynı düzeyde "mikro" ve yaratıcı olmalıdır. Foucault'nun "direniş, iktidardan önce gelir" teziyle bağdaşacak modern dijital stratejiler şunlardır:
+EÄŸer iktidar "mikro-fizik" ise ve kÄ±lcal damarlarÄ±mÄ±za kadar sÄ±zmÄ±ÅŸsa, ona karÅŸÄ± direniÅŸ de aynÄ± dÃ¼zeyde "mikro" ve yaratÄ±cÄ± olmalÄ±dÄ±r. Foucault'nun "direniÅŸ, iktidardan Ã¶nce gelir" teziyle baÄŸdaÅŸacak modern dijital stratejiler ÅŸunlardÄ±r:
 
-## 1. Veri Karartma Karşıtı: "Bilinmezlik Hakları"
-Gözetim toplumu her şeyi görünür ve okunabilir kılmak ister. Direniş ise bu okunabilirliği bozmaktır. Kriptografi, sadece teknik bir araç değil; iktidarın "bakışını" (gaze) kör eden felsefi bir eylemdir. "Görünmez kalma hakkı", modern panoptikona karşı en temel etik duruştur.
+## 1. Veri Karartma KarÅŸÄ±tÄ±: "Bilinmezlik HaklarÄ±"
+GÃ¶zetim toplumu her ÅŸeyi gÃ¶rÃ¼nÃ¼r ve okunabilir kÄ±lmak ister. DireniÅŸ ise bu okunabilirliÄŸi bozmaktÄ±r. Kriptografi, sadece teknik bir araÃ§ deÄŸil; iktidarÄ±n "bakÄ±ÅŸÄ±nÄ±" (gaze) kÃ¶r eden felsefi bir eylemdir. "GÃ¶rÃ¼nmez kalma hakkÄ±", modern panoptikona karÅŸÄ± en temel etik duruÅŸtur.
 
-## 2. Karşı-Söylem Üretimi: Algoritmaları Şaşırtmak
-Algoritmalar bizi tahmin edilebilirliğimiz üzerinden yönetir. Algoritmaların bizi bir kategoriye (tüketici, seçmen, riskli vaka) hapsetmesini engellemek için "rastgelelik" bir direniş taktiğidir. Dijital izlerimizi kasıtlı olarak karıştırmak, iktidarın ürettiği "dijital ikizi" (digital twin) geçersiz kılar.
+## 2. KarÅŸÄ±-SÃ¶ylem Ãœretimi: AlgoritmalarÄ± ÅaÅŸÄ±rtmak
+Algoritmalar bizi tahmin edilebilirliÄŸimiz Ã¼zerinden yÃ¶netir. AlgoritmalarÄ±n bizi bir kategoriye (tÃ¼ketici, seÃ§men, riskli vaka) hapsetmesini engellemek iÃ§in "rastgelelik" bir direniÅŸ taktiÄŸidir. Dijital izlerimizi kasÄ±tlÄ± olarak karÄ±ÅŸtÄ±rmak, iktidarÄ±n Ã¼rettiÄŸi "dijital ikizi" (digital twin) geÃ§ersiz kÄ±lar.
 
-## 3. Parrhesia Olarak Açık Kaynak
-Açık kaynak kodu ve şeffaflık aktivizmi, modern bir **Parrhesia** (hakikat söyleme cesareti) eylemidir. İktidarın kodlar/algoritmalar arkasına saklanmasına karşı, kodun kendisini kamusallaştırmak; "hakikat rejimi"nin merkezine sızmak ve onu ifşa etmektir.
+## 3. Parrhesia Olarak AÃ§Ä±k Kaynak
+AÃ§Ä±k kaynak kodu ve ÅŸeffaflÄ±k aktivizmi, modern bir **Parrhesia** (hakikat sÃ¶yleme cesareti) eylemidir. Ä°ktidarÄ±n kodlar/algoritmalar arkasÄ±na saklanmasÄ±na karÅŸÄ±, kodun kendisini kamusallaÅŸtÄ±rmak; "hakikat rejimi"nin merkezine sÄ±zmak ve onu ifÅŸa etmektir.
 
 ## 4. Heterotopik Dijital Alanlar
-İnternetin tamamının bir panoptikona dönüştüğü bir çağda; gözetlenmeyen, verinin paraya dönüştürülmediği, "başka türlü" işleyen dijital vahalar yaratmak (mesh networkler, yerel ağlar vb.), dijital heterotopyalar kurmaktır. Bu alanlar, büyük gözetim platformlarının dışında kalan "özgürlük adacıkları"dır.
+Ä°nternetin tamamÄ±nÄ±n bir panoptikona dÃ¶nÃ¼ÅŸtÃ¼ÄŸÃ¼ bir Ã§aÄŸda; gÃ¶zetlenmeyen, verinin paraya dÃ¶nÃ¼ÅŸtÃ¼rÃ¼lmediÄŸi, "baÅŸka tÃ¼rlÃ¼" iÅŸleyen dijital vahalar yaratmak (mesh networkler, yerel aÄŸlar vb.), dijital heterotopyalar kurmaktÄ±r. Bu alanlar, bÃ¼yÃ¼k gÃ¶zetim platformlarÄ±nÄ±n dÄ±ÅŸÄ±nda kalan "Ã¶zgÃ¼rlÃ¼k adacÄ±klarÄ±"dÄ±r.
 
-## 5. Biyo-Etik Direniş
-Biyo-iktidarın bedeni veri kaynağına dönüştürmesine karşı; bedenin biyometrik verilerini paylaşmayı reddetmek, "bağlantıyı kesme" hakkını (right to disconnect) savunmak ve biyolojik hayatın "ölçülemez"liğini korumak, modern bir özneleşme pratiğidir.
+## 5. Biyo-Etik DireniÅŸ
+Biyo-iktidarÄ±n bedeni veri kaynaÄŸÄ±na dÃ¶nÃ¼ÅŸtÃ¼rmesine karÅŸÄ±; bedenin biyometrik verilerini paylaÅŸmayÄ± reddetmek, "baÄŸlantÄ±yÄ± kesme" hakkÄ±nÄ± (right to disconnect) savunmak ve biyolojik hayatÄ±n "Ã¶lÃ§Ã¼lemez"liÄŸini korumak, modern bir Ã¶zneleÅŸme pratiÄŸidir.
 
 ---
-*Bu çalışma Panoptikon-Atölyesi kapsamında 05_Solem_Analizleri_ve_Denemeler dizini için hazırlanmıştır.*
+*Bu Ã§alÄ±ÅŸma Panoptikon-AtÃ¶lyesi kapsamÄ±nda 05_Solem_Analizleri_ve_Denemeler dizini iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r.*

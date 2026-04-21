@@ -1,23 +1,23 @@
-# Güvenlik, Toprak, Nüfus: Yönetimselliğin Doğuşu
+﻿# GÃ¼venlik, Toprak, NÃ¼fus: YÃ¶netimselliÄŸin DoÄŸuÅŸu
 
-Foucault'nun 1977-1978 yıllarında Collège de France'da verdiği bu dersler, iktidar analizinde büyük bir vites değişimini temsil eder.
+Foucault'nun 1977-1978 yÄ±llarÄ±nda CollÃ¨ge de France'da verdiÄŸi bu dersler, iktidar analizinde bÃ¼yÃ¼k bir vites deÄŸiÅŸimini temsil eder.
 
-## 1. Topraktan Nüfusa Geçiş
-Geleneksel egemenlik, bir **toprak** parçası üzerinde hüküm sürmekle ilgiliydi. Modern iktidar ise bir **nüfus**u (population) yönetmekle ilgilenir. Nüfus, artık kralın tebaası değil; kendi iç dinamikleri olan, biyolojik, ekonomik ve istatistiksel bir yoğunluktur.
+## 1. Topraktan NÃ¼fusa GeÃ§iÅŸ
+Geleneksel egemenlik, bir **toprak** parÃ§asÄ± Ã¼zerinde hÃ¼kÃ¼m sÃ¼rmekle ilgiliydi. Modern iktidar ise bir **nÃ¼fus**u (population) yÃ¶netmekle ilgilenir. NÃ¼fus, artÄ±k kralÄ±n tebaasÄ± deÄŸil; kendi iÃ§ dinamikleri olan, biyolojik, ekonomik ve istatistiksel bir yoÄŸunluktur.
 
-## 2. Disiplinden Güvenlik Düzeneklerine
-*   **Hukuk/Ceza Sistemi:** Bir yasak ve bu yasağı çiğneyen için bir ceza.
-*   **Disiplin Sistemi:** Bireyi sürekli denetleme ve normlara uydurma.
-*   **Güvenlik Düzenekleri (Appareils de Sécurité):** Olayları engellemek yerine onları "idare edilebilir" kılmak. Örneğin, bir kıtlığı tamamen önlemek yerine, fiyatları ve tahıl akışını dengeleyerek nüfusun hayatta kalmasını sağlamak.
+## 2. Disiplinden GÃ¼venlik DÃ¼zeneklerine
+*   **Hukuk/Ceza Sistemi:** Bir yasak ve bu yasaÄŸÄ± Ã§iÄŸneyen iÃ§in bir ceza.
+*   **Disiplin Sistemi:** Bireyi sÃ¼rekli denetleme ve normlara uydurma.
+*   **GÃ¼venlik DÃ¼zenekleri (Appareils de SÃ©curitÃ©):** OlaylarÄ± engellemek yerine onlarÄ± "idare edilebilir" kÄ±lmak. Ã–rneÄŸin, bir kÄ±tlÄ±ÄŸÄ± tamamen Ã¶nlemek yerine, fiyatlarÄ± ve tahÄ±l akÄ±ÅŸÄ±nÄ± dengeleyerek nÃ¼fusun hayatta kalmasÄ±nÄ± saÄŸlamak.
 
-## 3. Yönetimsellik (Governmentality)
-Bu kavramın üç boyutu vardır:
-1.  Nüfusu ana hedef, ekonomi politiği temel bilgi biçimi ve güvenlik düzeneklerini ana araç olarak alan iktidar biçimi.
-2.  "Yönetim" tipindeki bu iktidarın Batı'da diğer tüm iktidar biçimlerinden (egemenlik, disiplin) üstün hale gelmesi.
-3.  Adalet devletinin yerini yavaş yavaş bir "yönetimsel devlet"in alması.
+## 3. YÃ¶netimsellik (Governmentality)
+Bu kavramÄ±n Ã¼Ã§ boyutu vardÄ±r:
+1.  NÃ¼fusu ana hedef, ekonomi politiÄŸi temel bilgi biÃ§imi ve gÃ¼venlik dÃ¼zeneklerini ana araÃ§ olarak alan iktidar biÃ§imi.
+2.  "YÃ¶netim" tipindeki bu iktidarÄ±n BatÄ±'da diÄŸer tÃ¼m iktidar biÃ§imlerinden (egemenlik, disiplin) Ã¼stÃ¼n hale gelmesi.
+3.  Adalet devletinin yerini yavaÅŸ yavaÅŸ bir "yÃ¶netimsel devlet"in almasÄ±.
 
-## 4. Çobanıl İktidar (Pastoral Power)
-Hristiyanlık geleneğinden devralınan "çobanın koyunlarını gütmesi" gibi; devletin artık her bir bireyin selameti ve iyiliği (salut) için tek tek ve topluca (omnes et singulatim) ilgilenmesi durumudur.
+## 4. Ã‡obanÄ±l Ä°ktidar (Pastoral Power)
+HristiyanlÄ±k geleneÄŸinden devralÄ±nan "Ã§obanÄ±n koyunlarÄ±nÄ± gÃ¼tmesi" gibi; devletin artÄ±k her bir bireyin selameti ve iyiliÄŸi (salut) iÃ§in tek tek ve topluca (omnes et singulatim) ilgilenmesi durumudur.
 
 ---
-*Bu notlar Panoptikon-Atölyesi kapsamında 03_Soykutuk_Arastirmalari klasörü için oluşturulmuştur.*
+*Bu notlar Panoptikon-AtÃ¶lyesi kapsamÄ±nda 03_Soykutuk_Arastirmalari klasÃ¶rÃ¼ iÃ§in oluÅŸturulmuÅŸtur.*

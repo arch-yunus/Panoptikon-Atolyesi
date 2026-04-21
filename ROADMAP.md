@@ -1,26 +1,26 @@
-# 🚀 Panoptikon-Atölyesi Yol Haritası (Roadmap)
+﻿# ğŸš€ Panoptikon-AtÃ¶lyesi Yol HaritasÄ± (Roadmap)
 
-Panoptikon-Atölyesi statik bir arşiv değil, gelişen bir felsefi araştırmadır. Projenin gelecek hedefleri aşağıda aşamalandırılmıştır:
+Panoptikon-AtÃ¶lyesi statik bir arÅŸiv deÄŸil, geliÅŸen bir felsefi araÅŸtÄ±rmadÄ±r. Projenin gelecek hedefleri aÅŸaÄŸÄ±da aÅŸamalandÄ±rÄ±lmÄ±ÅŸtÄ±r:
 
-## 📍 [Faz 1] Temeller ve Arşiv İnşası (Tamamlandı)
-- [x] Temel dizin yapısının kurulması.
-- [x] Foucault'nun ana eserlerinin (Deliliğin Tarihi, Kelimeler ve Şeyler, Hapishanenin Doğuşu vb.) özetlenmesi.
-- [x] Temel kavramlar sözlüğünün oluşturulması.
+## ğŸ“ [Faz 1] Temeller ve ArÅŸiv Ä°nÅŸasÄ± (TamamlandÄ±)
+- [x] Temel dizin yapÄ±sÄ±nÄ±n kurulmasÄ±.
+- [x] Foucault'nun ana eserlerinin (DeliliÄŸin Tarihi, Kelimeler ve Åeyler, Hapishanenin DoÄŸuÅŸu vb.) Ã¶zetlenmesi.
+- [x] Temel kavramlar sÃ¶zlÃ¼ÄŸÃ¼nÃ¼n oluÅŸturulmasÄ±.
 
-## 🚧 [Faz 2] Akademik Derinleştirme ve Kolaj (Aktif)
-- [ ] Collège de France derslerinin (1970-1984) tam dökümünün analizi.
-- [/] Yönetimsellik ve Parrhesia kavramlarının derinleştirilmesi.
-- [ ] İkincil kaynakların (Deleuze, Agamben, Han) Foucault ile karşılaştırmalı analizi.
+## ğŸš§ [Faz 2] Akademik DerinleÅŸtirme ve Kolaj (Aktif)
+- [ ] CollÃ¨ge de France derslerinin (1970-1984) tam dÃ¶kÃ¼mÃ¼nÃ¼n analizi.
+- [/] YÃ¶netimsellik ve Parrhesia kavramlarÄ±nÄ±n derinleÅŸtirilmesi.
+- [ ] Ä°kincil kaynaklarÄ±n (Deleuze, Agamben, Han) Foucault ile karÅŸÄ±laÅŸtÄ±rmalÄ± analizi.
 
-## 🔭 [Faz 3] Dijital Arkeoloji ve Vaka Analizleri
-- [ ] Yapay Zeka etiği ve algoritmik disiplin üzerine özel dosyalar.
-- [ ] Biyo-teknoloji ve genetik düzenleme üzerine biyopolitik denemeler.
-- [ ] Akıllı şehirlerin gözetim mimarisi üzerine saha araştırması tadında notlar.
+## ğŸ”­ [Faz 3] Dijital Arkeoloji ve Vaka Analizleri
+- [ ] Yapay Zeka etiÄŸi ve algoritmik disiplin Ã¼zerine Ã¶zel dosyalar.
+- [ ] Biyo-teknoloji ve genetik dÃ¼zenleme Ã¼zerine biyopolitik denemeler.
+- [ ] AkÄ±llÄ± ÅŸehirlerin gÃ¶zetim mimarisi Ã¼zerine saha araÅŸtÄ±rmasÄ± tadÄ±nda notlar.
 
-## 🌐 [Faz 4] Görselleştirme ve Erişilebilirlik
-- [ ] Kavramlar arası ilişkileri gösteren interaktif bir "Söylem Haritası" (Mermaid diyagramları ile).
-- [ ] GitHub Pages üzerinden projenin bir felsefe ansiklopedisi olarak yayına alınması.
-- [ ] Çok dilli destek (İngilizce & Fransızca özetler).
+## ğŸŒ [Faz 4] GÃ¶rselleÅŸtirme ve EriÅŸilebilirlik
+- [ ] Kavramlar arasÄ± iliÅŸkileri gÃ¶steren interaktif bir "SÃ¶ylem HaritasÄ±" (Mermaid diyagramlarÄ± ile).
+- [ ] GitHub Pages Ã¼zerinden projenin bir felsefe ansiklopedisi olarak yayÄ±na alÄ±nmasÄ±.
+- [ ] Ã‡ok dilli destek (Ä°ngilizce & FransÄ±zca Ã¶zetler).
 
 ---
-*Her aşama, iktidarın görünmeyen kılcallarına doğru atılan yeni bir adımdır.*
+*Her aÅŸama, iktidarÄ±n gÃ¶rÃ¼nmeyen kÄ±lcallarÄ±na doÄŸru atÄ±lan yeni bir adÄ±mdÄ±r.*

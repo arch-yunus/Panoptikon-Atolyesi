@@ -1,21 +1,21 @@
-# Heterotopya Mekânları (Heterotopias)
+﻿# Heterotopya MekÃ¢nlarÄ± (Heterotopias)
 
-## 1. Giriş: Ütopya vs. Heterotopya
-Ütopyalar, gerçek yeri olmayan, mükemmel ve ideal mekânlardır. **Heterotopyalar** ise her toplumun içinde var olan, gerçek mekânlar olmalarına rağmen diğer tüm mekânları yansıtan, karşı çıkan veya tersine çeviren "başka mekânlar"dır.
+## 1. GiriÅŸ: Ãœtopya vs. Heterotopya
+Ãœtopyalar, gerÃ§ek yeri olmayan, mÃ¼kemmel ve ideal mekÃ¢nlardÄ±r. **Heterotopyalar** ise her toplumun iÃ§inde var olan, gerÃ§ek mekÃ¢nlar olmalarÄ±na raÄŸmen diÄŸer tÃ¼m mekÃ¢nlarÄ± yansÄ±tan, karÅŸÄ± Ã§Ä±kan veya tersine Ã§eviren "baÅŸka mekÃ¢nlar"dÄ±r.
 
-## 2. Heterotopya İlkeleri
-Foucault, heterotopyaları tanımlamak için altı ilke sunar:
-1.  **Evrensellik:** Her kültür heterotopya üretir.
-2.  **İşlev Değişimi:** Bir mekân tarih içinde farklı işlevlere sahip bir heterotopya olabilir (örneğin mezarlıklar).
-3.  **Uyuşmaz Mekânların Birleşimi:** Tek bir gerçek mekânda birkaç uyumsuz mekânın yan yana gelmesi (örneğin tiyatro, sinema veya bahçeler).
-4.  **Heterokroniler:** Zamanın birikmesi veya kesilmesiyle olan ilişki (müzeler ve kütüphaneler vs. festivaller).
-5.  **Açılma ve Kapanma Sistemleri:** Girişin zorunlu olduğu (cezaevi) veya ritüellerle girildiği (hamam) eşik sistemleri.
-6.  **Yanılma veya Telafi İşlevi:** Ya gerçekliğin tüm yanılmalarını gösteren bir mekân (genelev) ya da gerçek hayatın düzensizliğine karşı mükemmel düzeni sunan bir mekân (koloniler).
+## 2. Heterotopya Ä°lkeleri
+Foucault, heterotopyalarÄ± tanÄ±mlamak iÃ§in altÄ± ilke sunar:
+1.  **Evrensellik:** Her kÃ¼ltÃ¼r heterotopya Ã¼retir.
+2.  **Ä°ÅŸlev DeÄŸiÅŸimi:** Bir mekÃ¢n tarih iÃ§inde farklÄ± iÅŸlevlere sahip bir heterotopya olabilir (Ã¶rneÄŸin mezarlÄ±klar).
+3.  **UyuÅŸmaz MekÃ¢nlarÄ±n BirleÅŸimi:** Tek bir gerÃ§ek mekÃ¢nda birkaÃ§ uyumsuz mekÃ¢nÄ±n yan yana gelmesi (Ã¶rneÄŸin tiyatro, sinema veya bahÃ§eler).
+4.  **Heterokroniler:** ZamanÄ±n birikmesi veya kesilmesiyle olan iliÅŸki (mÃ¼zeler ve kÃ¼tÃ¼phaneler vs. festivaller).
+5.  **AÃ§Ä±lma ve Kapanma Sistemleri:** GiriÅŸin zorunlu olduÄŸu (cezaevi) veya ritÃ¼ellerle girildiÄŸi (hamam) eÅŸik sistemleri.
+6.  **YanÄ±lma veya Telafi Ä°ÅŸlevi:** Ya gerÃ§ekliÄŸin tÃ¼m yanÄ±lmalarÄ±nÄ± gÃ¶steren bir mekÃ¢n (genelev) ya da gerÃ§ek hayatÄ±n dÃ¼zensizliÄŸine karÅŸÄ± mÃ¼kemmel dÃ¼zeni sunan bir mekÃ¢n (koloniler).
 
-## 3. Öne Çıkan Örnekler
-*   **Ayna:** Hem ütopik (görüntüm orada ama fiziksel olarak değil) hem heterotopik (orada duran ben gerçek benliğimi oradan görüyorum).
-*   **Gemi:** Heterotopya par excellence; sonsuz ufuklara açılan, kapalı ama her yere giden mekân.
-*   **Hapishane ve Hastane:** Modern toplumun saptığı bireyleri kapattığı heterotopyalar.
+## 3. Ã–ne Ã‡Ä±kan Ã–rnekler
+*   **Ayna:** Hem Ã¼topik (gÃ¶rÃ¼ntÃ¼m orada ama fiziksel olarak deÄŸil) hem heterotopik (orada duran ben gerÃ§ek benliÄŸimi oradan gÃ¶rÃ¼yorum).
+*   **Gemi:** Heterotopya par excellence; sonsuz ufuklara aÃ§Ä±lan, kapalÄ± ama her yere giden mekÃ¢n.
+*   **Hapishane ve Hastane:** Modern toplumun saptÄ±ÄŸÄ± bireyleri kapattÄ±ÄŸÄ± heterotopyalar.
 
 ---
-*Bu belge Panoptikon-Atölyesi kapsamında oluşturulmuştur.*
+*Bu belge Panoptikon-AtÃ¶lyesi kapsamÄ±nda oluÅŸturulmuÅŸtur.*

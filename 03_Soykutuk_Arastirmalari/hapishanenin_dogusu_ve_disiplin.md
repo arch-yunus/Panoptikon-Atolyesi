@@ -1,24 +1,24 @@
-# Hapishanenin Doğuşu (Discipline and Punish) ve Disiplin
+﻿# Hapishanenin DoÄŸuÅŸu (Discipline and Punish) ve Disiplin
 
-## 1. Gösteri Toplumundan Gözetim Toplumuna
-Foucault, 18. yüzyıldan 19. yüzyıla geçişte ceza biçimlerindeki dramatik değişimi inceler. Eskiden suçlunun bedeni halkın önünde parçalanırken (gösteri olarak ceza), modern çağda ceza sessizleşmiş ve "disiplin" altına alma sürecine dönüşmüştür.
+## 1. GÃ¶steri Toplumundan GÃ¶zetim Toplumuna
+Foucault, 18. yÃ¼zyÄ±ldan 19. yÃ¼zyÄ±la geÃ§iÅŸte ceza biÃ§imlerindeki dramatik deÄŸiÅŸimi inceler. Eskiden suÃ§lunun bedeni halkÄ±n Ã¶nÃ¼nde parÃ§alanÄ±rken (gÃ¶steri olarak ceza), modern Ã§aÄŸda ceza sessizleÅŸmiÅŸ ve "disiplin" altÄ±na alma sÃ¼recine dÃ¶nÃ¼ÅŸmÃ¼ÅŸtÃ¼r.
 
 ## 2. Bedenin Terbiyesi ve Mikro-Fizik
-Disiplin, bedenin en küçük hareketlerine müdahale eder. Okullar, kışlalar, fabrikalar ve hastaneler; bedeni verimli, uysal ve kullanışlı hale getirmek için tasarlanmış disiplin mekanlarıdır.
-*   **Zaman Çizelgesi:** Vaktin her saniyesinin kontrolü.
-*   **Mekânsal Dağılım:** Her bireyin kendi yerine (hücresine, sırasına) yerleştirilmesi.
-*   **Hiyerarşik Gözetim:** Sürekli izlenme hissi.
+Disiplin, bedenin en kÃ¼Ã§Ã¼k hareketlerine mÃ¼dahale eder. Okullar, kÄ±ÅŸlalar, fabrikalar ve hastaneler; bedeni verimli, uysal ve kullanÄ±ÅŸlÄ± hale getirmek iÃ§in tasarlanmÄ±ÅŸ disiplin mekanlarÄ±dÄ±r.
+*   **Zaman Ã‡izelgesi:** Vaktin her saniyesinin kontrolÃ¼.
+*   **MekÃ¢nsal DaÄŸÄ±lÄ±m:** Her bireyin kendi yerine (hÃ¼cresine, sÄ±rasÄ±na) yerleÅŸtirilmesi.
+*   **HiyerarÅŸik GÃ¶zetim:** SÃ¼rekli izlenme hissi.
 
-## 3. Panoptisizm: Gözetimin Otomatizasyonu
-Jeremy Bentham'ın Panoptikon tasarımı, modern iktidarın ideal modelidir.
-*   **Görünürlük:** Mahkum her an izlendiğini bilir ama gardiyanı göremez.
-*   **İçselleştirme:** Mahkum, dışsal bir baskı olmasa bile kendi kendini denetlemeye başlar. İktidar artık kişiyle değil, sistemin mimarisiyle işler.
+## 3. Panoptisizm: GÃ¶zetimin Otomatizasyonu
+Jeremy Bentham'Ä±n Panoptikon tasarÄ±mÄ±, modern iktidarÄ±n ideal modelidir.
+*   **GÃ¶rÃ¼nÃ¼rlÃ¼k:** Mahkum her an izlendiÄŸini bilir ama gardiyanÄ± gÃ¶remez.
+*   **Ä°Ã§selleÅŸtirme:** Mahkum, dÄ±ÅŸsal bir baskÄ± olmasa bile kendi kendini denetlemeye baÅŸlar. Ä°ktidar artÄ±k kiÅŸiyle deÄŸil, sistemin mimarisiyle iÅŸler.
 
-## 4. Normalleştirici Yargı ve Sınav
-Disiplinci iktidar sadece yasaklamaz, aynı zamanda bir "norm" (standart) belirler. Kimin bu norma uyup uymadığı "sınav" (exam) yoluyla sürekli ölçülür. Sınav, bireyi bir "bilgi nesnesi" (vaka/case) haline getirir.
+## 4. NormalleÅŸtirici YargÄ± ve SÄ±nav
+Disiplinci iktidar sadece yasaklamaz, aynÄ± zamanda bir "norm" (standart) belirler. Kimin bu norma uyup uymadÄ±ÄŸÄ± "sÄ±nav" (exam) yoluyla sÃ¼rekli Ã¶lÃ§Ã¼lÃ¼r. SÄ±nav, bireyi bir "bilgi nesnesi" (vaka/case) haline getirir.
 
-## 5. Hapishane Takımı (The Carceral Archipelago)
-Foucault'ya göre hapishane toplumdan ayrı bir yer değil, toplumun her yerine yayılmış bir "disiplin ağının" (okul, ordu, işyeri) en uç ve somut noktasıdır.
+## 5. Hapishane TakÄ±mÄ± (The Carceral Archipelago)
+Foucault'ya gÃ¶re hapishane toplumdan ayrÄ± bir yer deÄŸil, toplumun her yerine yayÄ±lmÄ±ÅŸ bir "disiplin aÄŸÄ±nÄ±n" (okul, ordu, iÅŸyeri) en uÃ§ ve somut noktasÄ±dÄ±r.
 
 ---
-*Bu belge Panoptikon-Atölyesi kapsamında oluşturulmuştur.*
+*Bu belge Panoptikon-AtÃ¶lyesi kapsamÄ±nda oluÅŸturulmuÅŸtur.*

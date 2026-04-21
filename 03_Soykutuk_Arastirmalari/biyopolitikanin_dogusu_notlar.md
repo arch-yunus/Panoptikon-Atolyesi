@@ -1,18 +1,18 @@
-# Biyopolitikanın Doğuşu: Liberalizm ve Neoliberalizm
+﻿# BiyopolitikanÄ±n DoÄŸuÅŸu: Liberalizm ve Neoliberalizm
 
-Foucault'nun 1978-1979 Collège de France dersleri, biyopolitikanın izini sürerken aslında modern iktidarın iktisadi aklını (liberalizm) keşfeder.
+Foucault'nun 1978-1979 CollÃ¨ge de France dersleri, biyopolitikanÄ±n izini sÃ¼rerken aslÄ±nda modern iktidarÄ±n iktisadi aklÄ±nÄ± (liberalizm) keÅŸfeder.
 
-## 1. Liberalizm Bir Yönetim Rasyonalitesi Olarak
-Foucault için liberalizm, "daha az yönetmek" sanatıdır. Liberalizm, devletin yönetme kapasitesini sürekli eleştiren ve "fazlasıyla yönetme" korkusuyla hareket eden bir düzenektir. Piyasa, artık bir adalet yeri değil, bir **hakikat yeri** (veridiction) haline gelmiştir.
+## 1. Liberalizm Bir YÃ¶netim Rasyonalitesi Olarak
+Foucault iÃ§in liberalizm, "daha az yÃ¶netmek" sanatÄ±dÄ±r. Liberalizm, devletin yÃ¶netme kapasitesini sÃ¼rekli eleÅŸtiren ve "fazlasÄ±yla yÃ¶netme" korkusuyla hareket eden bir dÃ¼zenektir. Piyasa, artÄ±k bir adalet yeri deÄŸil, bir **hakikat yeri** (veridiction) haline gelmiÅŸtir.
 
 ## 2. Alman Ordo-liberalizmi
-Savaş sonrası Almanya'nın yeniden inşasında görülen bu modelde; devlet piyasaya değil, piyasa devleti meşrulaştıran bir zemindir. Rekabetin kendiliğinden değil, devlet tarafından sürekli kurumlar yoluyla korunması gerektiği savunulur.
+SavaÅŸ sonrasÄ± Almanya'nÄ±n yeniden inÅŸasÄ±nda gÃ¶rÃ¼len bu modelde; devlet piyasaya deÄŸil, piyasa devleti meÅŸrulaÅŸtÄ±ran bir zemindir. Rekabetin kendiliÄŸinden deÄŸil, devlet tarafÄ±ndan sÃ¼rekli kurumlar yoluyla korunmasÄ± gerektiÄŸi savunulur.
 
-## 3. Amerikan Neoliberalizmi ve Beşerî Sermaye (Human Capital)
-Chicago Okulu ile yükselen bu modelde, birey artık bir "mübadele ortağı" değil, bir **"girişimci özne"**dir. Bireyin kendisi bir sermayedir ve kendi hayatını, eğitimini, sağlığını bir yatırım nesnesi olarak yönetmelidir (*Homo Economicus*).
+## 3. Amerikan Neoliberalizmi ve BeÅŸerÃ® Sermaye (Human Capital)
+Chicago Okulu ile yÃ¼kselen bu modelde, birey artÄ±k bir "mÃ¼badele ortaÄŸÄ±" deÄŸil, bir **"giriÅŸimci Ã¶zne"**dir. Bireyin kendisi bir sermayedir ve kendi hayatÄ±nÄ±, eÄŸitimini, saÄŸlÄ±ÄŸÄ±nÄ± bir yatÄ±rÄ±m nesnesi olarak yÃ¶netmelidir (*Homo Economicus*).
 
-## 4. Yönetim Tekniği Olarak Pazar
-Biyopolitik çerçevede neoliberalizm, toplumu bir "şirketler ağı" olarak kurgular. Sosyal koruma sistemleri yerini risk analizlerine ve bireysel sigortalara bırakır. Devlet, piyasa mantığını hayatın tüm alanlarına (aile, suç, eğitim) yaymaya başlar.
+## 4. YÃ¶netim TekniÄŸi Olarak Pazar
+Biyopolitik Ã§erÃ§evede neoliberalizm, toplumu bir "ÅŸirketler aÄŸÄ±" olarak kurgular. Sosyal koruma sistemleri yerini risk analizlerine ve bireysel sigortalara bÄ±rakÄ±r. Devlet, piyasa mantÄ±ÄŸÄ±nÄ± hayatÄ±n tÃ¼m alanlarÄ±na (aile, suÃ§, eÄŸitim) yaymaya baÅŸlar.
 
 ---
-*Bu notlar Panoptikon-Atölyesi kapsamında 03_Soykutuk_Arastirmalari klasörü için oluşturulmuştur.*
+*Bu notlar Panoptikon-AtÃ¶lyesi kapsamÄ±nda 03_Soykutuk_Arastirmalari klasÃ¶rÃ¼ iÃ§in oluÅŸturulmuÅŸtur.*

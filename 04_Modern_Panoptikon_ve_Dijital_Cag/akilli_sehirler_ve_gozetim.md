@@ -1,18 +1,18 @@
-# Akıllı Şehirler ve Algoritma Panoptikonu
+﻿# AkÄ±llÄ± Åehirler ve Algoritma Panoptikonu
 
-Geleceğin "Akıllı Şehir" projeleri, Foucault'nun disiplinci mimari modelinin tüm şehir ölçeğine yayıldığı hibrit bir gözetim evreidir.
+GeleceÄŸin "AkÄ±llÄ± Åehir" projeleri, Foucault'nun disiplinci mimari modelinin tÃ¼m ÅŸehir Ã¶lÃ§eÄŸine yayÄ±ldÄ±ÄŸÄ± hibrit bir gÃ¶zetim evreidir.
 
-## 1. Mekânın Sürekli Okunabilirliği
-Panoptikon'da merkezdeki gardiyan kuleninin yerini artık yüksek çözünürlüklü kameralar, sensörler ve yüz tanıma sistemleri almıştır. Şehirdeki her hareket (trafik akışı, enerji kullanımı, atık yönetimi) bir veriye dönüşür. Şehir artık "okunabilir" ve "öngörülebilir" bir metindir.
+## 1. MekÃ¢nÄ±n SÃ¼rekli OkunabilirliÄŸi
+Panoptikon'da merkezdeki gardiyan kuleninin yerini artÄ±k yÃ¼ksek Ã§Ã¶zÃ¼nÃ¼rlÃ¼klÃ¼ kameralar, sensÃ¶rler ve yÃ¼z tanÄ±ma sistemleri almÄ±ÅŸtÄ±r. Åehirdeki her hareket (trafik akÄ±ÅŸÄ±, enerji kullanÄ±mÄ±, atÄ±k yÃ¶netimi) bir veriye dÃ¶nÃ¼ÅŸÃ¼r. Åehir artÄ±k "okunabilir" ve "Ã¶ngÃ¶rÃ¼lebilir" bir metindir.
 
-## 2. Şeffaflık İllüzyonu
-Akıllı şehirler, "verimlilik", "güvenlik" ve "konfor" vaat eder. Bu vaatler, gözetimin kabul edilebilirliğini sağlar. Birey, verilerinin toplanmasına "akıllı bir hizmet" alacağı beklentisiyle rıza gösterir. Şeffaflık, iktidarın görünmezliğini gizleyen bir örtüdür.
+## 2. ÅeffaflÄ±k Ä°llÃ¼zyonu
+AkÄ±llÄ± ÅŸehirler, "verimlilik", "gÃ¼venlik" ve "konfor" vaat eder. Bu vaatler, gÃ¶zetimin kabul edilebilirliÄŸini saÄŸlar. Birey, verilerinin toplanmasÄ±na "akÄ±llÄ± bir hizmet" alacaÄŸÄ± beklentisiyle rÄ±za gÃ¶sterir. ÅeffaflÄ±k, iktidarÄ±n gÃ¶rÃ¼nmezliÄŸini gizleyen bir Ã¶rtÃ¼dÃ¼r.
 
-## 3. Algoritmik Süzgeçler: Kırmızı Işıktan Sosyal Skora
-Akıllı şehirler, insan müdahalesini en aza indirerek karar alma süreçlerini algoritmalara devreder. Kimlerin hangi bölgelere girebileceği, kimlerin kamu hizmetlerinden daha hızlı yararlanacağı; arka planda çalışan, "anormallikleri" tespit eden sitemler tarafından belirlenir. Bu, Foucault'nun "normalleştirici yargı" kavramının otomatikleşmiş halidir.
+## 3. Algoritmik SÃ¼zgeÃ§ler: KÄ±rmÄ±zÄ± IÅŸÄ±ktan Sosyal Skora
+AkÄ±llÄ± ÅŸehirler, insan mÃ¼dahalesini en aza indirerek karar alma sÃ¼reÃ§lerini algoritmalara devreder. Kimlerin hangi bÃ¶lgelere girebileceÄŸi, kimlerin kamu hizmetlerinden daha hÄ±zlÄ± yararlanacaÄŸÄ±; arka planda Ã§alÄ±ÅŸan, "anormallikleri" tespit eden sitemler tarafÄ±ndan belirlenir. Bu, Foucault'nun "normalleÅŸtirici yargÄ±" kavramÄ±nÄ±n otomatikleÅŸmiÅŸ halidir.
 
-## 4. Akışların Yönetimi: Biyopolitik Bir Labirent
-Akıllı şehir, yaşayan bir organizma gibi yönetilir. İktidar, insanları engellemek yerine onların akışlarını (ulaşım, tüketim, iletişim) optimize eder. Bu, Deleuze'ün "kontrol toplumları" olarak adlandırdığı, kapalı kapıların yerini alan sürekli ağ denetimidir.
+## 4. AkÄ±ÅŸlarÄ±n YÃ¶netimi: Biyopolitik Bir Labirent
+AkÄ±llÄ± ÅŸehir, yaÅŸayan bir organizma gibi yÃ¶netilir. Ä°ktidar, insanlarÄ± engellemek yerine onlarÄ±n akÄ±ÅŸlarÄ±nÄ± (ulaÅŸÄ±m, tÃ¼ketim, iletiÅŸim) optimize eder. Bu, Deleuze'Ã¼n "kontrol toplumlarÄ±" olarak adlandÄ±rdÄ±ÄŸÄ±, kapalÄ± kapÄ±larÄ±n yerini alan sÃ¼rekli aÄŸ denetimidir.
 
 ---
-*Bu analiz Panoptikon-Atölyesi kapsamında 04_Modern_Panoptikon_ve_Dijital_Cag dizini için hazırlanmıştır.*
+*Bu analiz Panoptikon-AtÃ¶lyesi kapsamÄ±nda 04_Modern_Panoptikon_ve_Dijital_Cag dizini iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r.*

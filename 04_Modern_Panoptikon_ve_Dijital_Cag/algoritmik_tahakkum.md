@@ -1,19 +1,19 @@
-# Algoritmik Tahakküm (Algorithmic Domination)
+﻿# Algoritmik TahakkÃ¼m (Algorithmic Domination)
 
-## 1. Algoritma Bir "Norm" Üreticisi Olarak
-Foucault'nun disiplin toplumunda "norm" insanlar (öğretmenler, doktorlar, gardiyanlar) tarafından uygulanıyordu. Algoritmik tahakkümde ise normlar, kodlar ve matematiksel modeller aracılığıyla uygulanır. Algoritma, neyin "ilgili", "doğru" veya "başarılı" olduğunu sessizce ve sürekli olarak belirleyen yeni bir iktidar biçimidir.
+## 1. Algoritma Bir "Norm" Ãœreticisi Olarak
+Foucault'nun disiplin toplumunda "norm" insanlar (Ã¶ÄŸretmenler, doktorlar, gardiyanlar) tarafÄ±ndan uygulanÄ±yordu. Algoritmik tahakkÃ¼mde ise normlar, kodlar ve matematiksel modeller aracÄ±lÄ±ÄŸÄ±yla uygulanÄ±r. Algoritma, neyin "ilgili", "doÄŸru" veya "baÅŸarÄ±lÄ±" olduÄŸunu sessizce ve sÃ¼rekli olarak belirleyen yeni bir iktidar biÃ§imidir.
 
-## 2. Görünmez Hapishane: Filtre Balonları
-Panoptikon'da görünürlük bir tuzaktı. Algoritmik dünyada ise **görünmezlik** bir ceza olabilir. Algoritmalar tarafından "gösterilmeyen" veya "erişimi kısıtlanan" (shadowbanning) birey, dijital kamusallıktan dışlanmış olur. Bu, fiziksel kapatılmanın dijital muadilidir.
+## 2. GÃ¶rÃ¼nmez Hapishane: Filtre BalonlarÄ±
+Panoptikon'da gÃ¶rÃ¼nÃ¼rlÃ¼k bir tuzaktÄ±. Algoritmik dÃ¼nyada ise **gÃ¶rÃ¼nmezlik** bir ceza olabilir. Algoritmalar tarafÄ±ndan "gÃ¶sterilmeyen" veya "eriÅŸimi kÄ±sÄ±tlanan" (shadowbanning) birey, dijital kamusallÄ±ktan dÄ±ÅŸlanmÄ±ÅŸ olur. Bu, fiziksel kapatÄ±lmanÄ±n dijital muadilidir.
 
 ## 3. Puanlama Sistemleri ve Sosyal Kredi
-Modern iktidar, bireyleri sürekli puanlar:
-*   **Kredi Skorları:** Finansal güvenilirliğin ölçümü.
-*   **Sosyal Kredi Sistemleri:** Vatandaşlık davranışlarının puanlanması ve buna göre hakların (seyahat, eğitim vb.) kısıtlanması.
-Bu sistemler, Foucault'nun "normalleştirici yargı" kavramının en ileri teknolojik aşamasıdır.
+Modern iktidar, bireyleri sÃ¼rekli puanlar:
+*   **Kredi SkorlarÄ±:** Finansal gÃ¼venilirliÄŸin Ã¶lÃ§Ã¼mÃ¼.
+*   **Sosyal Kredi Sistemleri:** VatandaÅŸlÄ±k davranÄ±ÅŸlarÄ±nÄ±n puanlanmasÄ± ve buna gÃ¶re haklarÄ±n (seyahat, eÄŸitim vb.) kÄ±sÄ±tlanmasÄ±.
+Bu sistemler, Foucault'nun "normalleÅŸtirici yargÄ±" kavramÄ±nÄ±n en ileri teknolojik aÅŸamasÄ±dÄ±r.
 
-## 4. Algoritmik Özne İnşası
-Algoritmalar bizi sadece izlemez, aynı zamanda şekillendirir. Karşımıza çıkarılan içerikler, önerilen arkadaşlar ve yapılan yönlendirmelerle; arzularımız, tercihlerimiz ve kimliğimiz algoritmik bir çerçeve içinde yeniden inşa edilir. Bu, modern özneleşme (subjectification) sürecinin yeni arayüzüdür.
+## 4. Algoritmik Ã–zne Ä°nÅŸasÄ±
+Algoritmalar bizi sadece izlemez, aynÄ± zamanda ÅŸekillendirir. KarÅŸÄ±mÄ±za Ã§Ä±karÄ±lan iÃ§erikler, Ã¶nerilen arkadaÅŸlar ve yapÄ±lan yÃ¶nlendirmelerle; arzularÄ±mÄ±z, tercihlerimiz ve kimliÄŸimiz algoritmik bir Ã§erÃ§eve iÃ§inde yeniden inÅŸa edilir. Bu, modern Ã¶zneleÅŸme (subjectification) sÃ¼recinin yeni arayÃ¼zÃ¼dÃ¼r.
 
 ---
-*Bu belge Panoptikon-Atölyesi kapsamında oluşturulmuştur.*
+*Bu belge Panoptikon-AtÃ¶lyesi kapsamÄ±nda oluÅŸturulmuÅŸtur.*
