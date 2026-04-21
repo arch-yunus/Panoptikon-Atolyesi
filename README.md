@@ -1,4 +1,10 @@
+![Panoptikon Atölyesi Banner](panopticon_banner.jpg)
+
 # 👁️ Panoptikon-Atölyesi
+
+[![Lisans: CC BY 4.0](https://img.shields.io/badge/Lisans-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Katkılar](https://img.shields.io/badge/Katkılar-Açık-brightgreen.svg)](KATKI_REHBERI.md)
+[![Durum](https://img.shields.io/badge/Durum-Kapsamlı_Geliştirme-blue.svg)]()
 
 *"Görünürlük bir tuzaktır."* - Michel Foucault, *Hapishanenin Doğuşu*
 
