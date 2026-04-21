@@ -24,28 +24,13 @@ Bu atölyenin temel amacı:
 Bu çalışma alanı, rastgele notlardan değil, Foucault'nun düşünce sistematiğini taşıyan ana kolonlar üzerinden yükselir:
 
 ### 1. Panoptikon ve Disiplin Toplumu
-Jeremy Bentham'ın mimari hapishane modelinden ilham alan Foucault, bunu modern toplumun metaforu olarak kullanır. Panoptikon'da merkezdeki kulenin görünmez gözü, mahkumu her an izlendiğine inandırır. Sonuçta dışsal baskıya gerek kalmaz; mahkum (veya modern birey) kendi kendini denetleyen bir gardiyana dönüşür. Bu atölye, fiziksel panoptikondan *dijital ve algoritmik panoptikona* geçişi inceler.
+Jeremy Bentham'ın mimari hapishane modelinden ilham alan Foucault, bunu modern toplumun metaforu olarak kullanır. Panoptikon'da merkezdeki kulenin görünmez gözü, mahkumu her an izlendiğine inandırır. Sonuçta dışsal baskıya gerek kalmaz; mahkum (veya modern birey) kendi kendini denetleyen bir gardiyana dönüşür.
 
 ### 2. İktidar-Bilgi (Power/Knowledge) Matrisi
-Foucault'ya göre bilgi asla yansız, objektif veya masum değildir. İktidar, kendini meşrulaştırmak için bilgiyi (ve bilimleri) üretirken; üretilen bilgi de iktidarın etki alanını genişletir. Psikiyatri, tıp, kriminoloji ve sosyoloji gibi alanlar, insanı bir "nesne" olarak inceleyip sınıflandırarak iktidarın ona hükmetmesini sağlar.
+Bilgi asla yansız veya masum değildir. İktidar, kendini meşrulaştırmak için bilgiyi üretirken; üretilen bilgi de iktidarın etki alanını genişletir.
 
-### 3. Biyopolitika ve Biyo-iktidar
-Klasik egemenlik "öldürme veya yaşamasına izin verme" (take life or let live) üzerine kuruluyken, modern iktidar "yaşatma veya ölüme terk etme" (make live and let die) üzerine kuruludur. Devlet; doğum oranları, halk sağlığı, hijyen, salgın hastalıklar ve yaşam süreleri üzerinden toplumu bir "biyolojik kitle" olarak yönetir. 
-
-### 4. Söylem (Discourse) ve Hakikat Rejimleri
-Söylem, sadece söylenen sözler değil, belirli bir tarihsel dönemde (episteme) neyin doğru neyin yanlış, neyin akıllı neyin deli, neyin suç neyin normal olarak kabul edileceğini belirleyen kurallar bütünüdür. Her toplumun kendi "hakikat rejimi" vardır.
-
-### 5. Özineleşme (Subjectification) Süreçleri
-İnsan nasıl "özne" haline gelir? Hem bir şeyin öznesi (eyleyen) hem de bir şeye tabi olan (boyun eğen) anlamında özne. Foucault, iktidar mekanizmalarının ve söylemlerin insanları nasıl belirli kategorilere (suçlu, hasta, sapkın, normal, vatandaş) sokarak şekillendirdiğini araştırır.
-
----
-
-## ⛏️ Metodoloji: Kazı ve Soyağacı
-
-Bu repoda yer alan çalışmalar, Foucault'nun iki temel analitik aracını benimser:
-
-* **Arkeoloji:** Bilginin tarihsel bilinçdışını kazmak. Bir dönemde belirli düşüncelerin, bilimlerin ve söylemlerin ortaya çıkmasını sağlayan yapısal koşulları (koşulların koşulunu) araştırmak. Neden belirli bir çağda belirli şeyler düşünülebilirken, diğerleri düşünülemez?
-* **Soykütük (Genealogy):** Nietzsche'den devralınan bu yöntem, günümüzdeki ahlak, hukuk veya normların kökenindeki o "yüce" ve "saf" başlangıçları reddeder. Bunun yerine, bugünkü doğrularımızın arkasında yatan kanlı, rastlantısal, çatışmalı ve iktidar savaşlarıyla dolu tarihi gözler önüne serer.
+### 3. Biyopolitika ve Yönetimsellik
+Modern iktidar, nüfusu biyolojik bir kitle olarak yönetir. Yönetimsellik, "insanların davranışlarını yönetme sanatı" olarak tüm topluma yayılır.
 
 ---
 
@@ -57,6 +42,8 @@ Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olara
 📂 Panoptikon-Atolyesi/
  │
  ├── 📂 01_Kavramlar_Sistematigi/   
+ │   ├── foucault_term_sozlugu.md          [YENİ]
+ │   ├── entelektuel_zaman_cizelgesi.md    [YENİ]
  │   ├── iktidar_bilgi_matrisi.md
  │   ├── biyo-iktidar_ve_nufus.md
  │   ├── heterotopya_mekanlari.md
@@ -65,21 +52,30 @@ Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olara
  ├── 📂 02_Arkeolojik_Kazilar/       
  │   ├── kelimeler_ve_seyler_notlari.md
  │   ├── bilginin_arkeolojisi_ozet.md
+ │   ├── klinigin_dogusu_analiz.md         [YENİ]
  │   └── deliligin_tarihi_analiz.md
  │
  ├── 📂 03_Soykutuk_Arastirmalari/    
  │   ├── hapishanenin_dogusu_ve_disiplin.md
  │   ├── cinselligin_tarihi_ve_itiraf.md
+ │   ├── guvenlik_toprak_nufus_ozet.md      [YENİ]
+ │   ├── biyopolitikanin_dogusu_notlar.md   [YENİ]
  │   └── ceza_ve_gozetim_mekanizmalari.md
  │
  ├── 📂 04_Modern_Panoptikon_ve_Dijital_Cag/  
  │   ├── veri_madenciligi_ve_biyopolitika.md
  │   ├── algoritmik_tahakkum.md
+ │   ├── pandemi_ve_biyo-iktidar_analizi.md [YENİ]
+ │   ├── akilli_sehirler_ve_gozetim.md      [YENİ]
  │   └── sosyal_medya_ve_gonullu_gozetim.md
  │
  ├── 📂 05_Solem_Analizleri_ve_Denemeler/  
+ │   ├── sosyal_kredi_sistemleri_deneme.md  [YENİ]
+ │   ├── uzaktan_calisma_ve_dijital_disiplin.md [YENİ]
  │   └── makale_sablonu.md
  │
+ ├── 📚 KAYNAKCA.md                       [YENİ]
+ ├── 🤝 KATKI_REHBERI.md                   [YENİ]
  └── README.md
 ```
 
@@ -88,19 +84,13 @@ Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olara
 ## 📚 Temel Okuma Listesi (Referanslar)
 
 Bu atölyedeki çalışmalar aşağıdaki başucu eserlerinden beslenmektedir:
-* *Deliliğin Tarihi (Histoire de la folie à l'âge classique)*
-* *Kelimeler ve Şeyler (Les Mots et les choses)*
-* *Bilginin Arkeolojisi (L'Archéologie du savoir)*
-* *Hapishanenin Doğuşu (Surveiller et punir: Naissance de la prison)*
-* *Cinselliğin Tarihi (Histoire de la sexualité - 4 Cilt)*
-* *Toplumu Savunmak Gerekir (Il faut défendre la société)*
+* *Deliliğin Tarihi* | *Kelimeler ve Şeyler* | *Bilginin Arkeolojisi*
+* *Hapishanenin Doğuşu* | *Cinselliğin Tarihi* | *Biyopolitikanın Doğuşu*
+
+Detaylı liste için [KAYNAKCA.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/Panoptikon-Atolyesi/KAYNAKCA.md) dosyasını inceleyin.
 
 ## 🤝 Katkı (Contribution)
 
-Bu depo statik bir belge değil, organik bir "dijital bahçe"dir. Foucaultyen bir analiz yapmak, bir metin üzerinde tartışmak, yerel veya küresel bir olguyu bu kavramlarla yapıbozuma uğratmak isterseniz:
-
-1. Bu repoyu **Fork**'layın.
-2. Üzerinde çalıştığınız konuyu ilgili klasöre ekleyin.
-3. Tartışma başlatmak için bir **Issue** açın veya doğrudan **Pull Request** gönderin.
+Bu depo statik bir belge değil, organik bir "dijital bahçe"dir. Katkı sağlamak için [KATKI_REHBERI.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/Panoptikon-Atolyesi/KATKI_REHBERI.md) dosyasını inceleyebilirsiniz.
 
 *Söylemi değiştiren, iktidarı sarsar.*
