@@ -2,110 +2,66 @@
   <img src="assets/panopticon_banner.jpg" alt="Panoptikon Atölyesi Banner" width="100%">
 </p>
 
-# 👁️ Panoptikon-Atölyesi
+# 👁️ Panoptikon-Atölyesi: Bir Düşünce Arkeolojisi Havuzu
 
 [![Lisans: CC BY 4.0](https://img.shields.io/badge/Lisans-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Katkılar](https://img.shields.io/badge/Katkılar-Açık-brightgreen.svg)](KATKI_REHBERI.md)
-[![Durum](https://img.shields.io/badge/Durum-Kapsamlı_Geliştirme-blue.svg)]()
+[![Durum](https://img.shields.io/badge/Durum-Akademik_Araştırma-gold.svg)]()
 
-*"Görünürlük bir tuzaktır."* - Michel Foucault, *Hapishanenin Doğuşu*
+> *"Görünürlük bir tuzaktır."* — **Michel Foucault**
 
-**Panoptikon-Atölyesi**, 20. yüzyılın en sarsıcı düşünürlerinden Michel Foucault'nun yapısalcı ve post-yapısalcı düzlemde inşa ettiği felsefi evreni, kavramsal araç setini ve iktidar analitiğini incelemek üzere kurulan bağımsız bir araştırma, belgeleme ve "düşünce arkeolojisi" havuzudur. 
-
-Bu depo yalnızca Foucault'nun geçmiş metinlerini özetlemeyi değil, onun yöntemlerini kullanarak günümüzün hakikat rejimlerini, dijital gözetim aygıtlarını ve modern öznenin nasıl inşa edildiğini yapıbozuma uğratmayı amaçlar. Bu alan, tamamlanmış bir kütüphane değil, sürekli kazı yapılan felsefi bir şantiyedir.
-
----
-
-## 📜 Manifesto ve Atölyenin Amacı
-
-Modern çağda iktidar artık kralların kılıcında veya meydanlardaki giyotinlerde değil; okulların sıralarında, hastane raporlarında, psikiyatrik teşhislerde, dijital algoritmaların veri tabanlarında ve bedenlerimizin en ince ayrıntılarına kadar sızan "kılcal" mekanizmalarda yatmaktadır. 
-
-Bu atölyenin temel amacı:
-1.  **Görünmezi Görünür Kılmak:** Gündelik hayatın "doğal" veya "bilimsel" kabul edilen normlarının arkasındaki iktidar stratejilerini ifşa etmek.
-2.  **Kavramsal Haritalama:** Foucault'nun derin ve çapraz bağlarla örülmüş terminolojisini (Episteme, Heterotopya, Biyopolitika) birbirine entegre felsefi metinler halinde sunmak.
-3.  **Çağdaş Söylem Analizi:** 21. yüzyılın "Dijital Panoptikon"unu, veri madenciliğini, algoritmik tahakkümü ve modern biyo-iktidarı Foucaultyen bir mercekle yeniden yorumlamak.
+## 🎯 Proje Vizyonu
+**Panoptikon-Atölyesi**, 20. yüzyılın en sarsıcı düşünürlerinden Michel Foucault'nun yapısalcı ve post-yapısalcı düzlemde inşa ettiği felsefi evreni inceleyen açık kaynaklı bir "Düşünce Arkeolojisi" merkezidir. Bu depo, geçmişin metinlerini bugünün dijital gözetim aygıtları, hakikat rejimleri ve modern özne inşasıyla sentezleyerek yapıbozuma uğratmayı amaçlar.
 
 ---
 
-## 🏛️ Temel Kavramlar ve Teorik Çerçeve
+## 🏗️ Repository Mimarisi ve Derin Analiz
 
-Bu çalışma alanı, rastgele notlardan değil, Foucault'nun düşünce sistematiğini taşıyan ana kolonlar üzerinden yükselir:
+Külliyat, araştırmacıların aradıkları bağlama nokta atışı ulaşabilmesi için sistematik bir hiyerarşiyle tasnif edilmiştir:
 
-### 1. Panoptikon ve Disiplin Toplumu
-Jeremy Bentham'ın mimari hapishane modelinden ilham alan Foucault, bunu modern toplumun metaforu olarak kullanır. Panoptikon'da merkezdeki kulenin görünmez gözü, mahkumu her an izlendiğine inandırır.
+### 🔹 [01] Kavramlar Sistematiği
+*Foucault felsefesinin temel yapı taşları ve terminolojik sözlüğü.*
+* **İktidar-Bilgi Matrisi:** Bilginin üretimindeki iktidar stratejileri.
+* **Biyo-iktidar:** Nüfusun biyolojik bir kitle olarak yönetilmesi.
+* **Parrhesia:** Hakikati söyleme cesareti ve etik özne.
 
-### 2. İktidar-Bilgi (Power/Knowledge) Matrisi
-Bilgi asla yansız veya masum değildir. İktidar, kendini meşrulaştırmak için bilgiyi üretirken; üretilen bilgi de iktidarın etki alanını genişletir.
+### 🔸 [02] Arkeolojik Kazılar
+*Bilginin tarihsel bilinçdışına yönelik derinlemesine metodolojik araştırmalar.*
+* **Kelimeler ve Şeyler:** Epistemolojik kopuşlar ve insanın sonu.
+* **Kliniğin Doğuşu:** Tıbbi bakışın ve bedenin mekânsallaşması.
 
-### 3. Biyopolitika ve Yönetimsellik
-Modern iktidar, nüfusu biyolojik bir kitle olarak yönetir. Yönetimsellik, "insanların davranışlarını yönetme sanatı" olarak tüm topluma yayılır.
+### 🔹 [03] Soykütük Araştırmaları
+*İktidarın beden üzerindeki mikro-fiziği ve disiplin mekanizmaları.*
+* **Hapishanenin Doğuşu:** Panoptisizm ve disiplin toplumu.
+* **Yönetimsellik:** Devlet aklından neoliberal yönetme sanatına.
 
----
-
-## 📂 Kapsamlı Dizin Yapısı
-
-Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olarak kategorize edilmiştir:
-
-```text
-📂 Panoptikon-Atolyesi/
- │
- ├── 📂 01_Kavramlar_Sistematigi/   
- │   ├── foucault_term_sozlugu.md
- │   ├── entelektuel_zaman_cizelgesi.md
- │   ├── parrhesia_ve_hakikat.md           [YENİ]
- │   ├── iktidar_bilgi_matrisi.md
- │   ├── biyo-iktidar_ve_nufus.md
- │   ├── heterotopya_mekanlari.md
- │   └── episteme_ve_tarihsel_kopus.md
- │
- ├── 📂 02_Arkeolojik_Kazilar/       
- │   ├── kelimeler_ve_seyler_notlari.md
- │   ├── bilginin_arkeolojisi_ozet.md
- │   ├── klinigin_dogusu_analiz.md
- │   └── deliligin_tarihi_analiz.md
- │
- ├── 📂 03_Soykutuk_Arastirmalari/    
- │   ├── hapishanenin_dogusu_ve_disiplin.md
- │   ├── cinselligin_tarihi_ve_itiraf.md
- │   ├── yonetimsellik_evrimi.md           [YENİ]
- │   ├── guvenlik_toprak_nufus_ozet.md
- │   ├── biyopolitikanin_dogusu_notlar.md
- │   └── ceza_ve_gozetim_mekanizmalari.md
- │
- ├── 📂 04_Modern_Panoptikon_ve_Dijital_Cag/  
- │   ├── veri_madenciligi_ve_biyopolitika.md
- │   ├── algoritmik_tahakkum.md
- │   ├── yapay_zeka_ve_soylem_uretimi.md    [YENİ]
- │   ├── blockchain_ve_merkeziyetsiz_iktidar.md [YENİ]
- │   ├── pandemi_ve_biyo-iktidar_analizi.md
- │   ├── akilli_sehirler_ve_gozetim.md
- │   └── sosyal_medya_ve_gonullu_gozetim.md
- │
- ├── 📂 05_Solem_Analizleri_ve_Denemeler/  
- │   ├── sosyal_kredi_sistemleri_deneme.md
- │   ├── uzaktan_calisma_ve_dijital_disiplin.md
- │   ├── dijital_izolasyon_ve_psikopolitika.md [YENİ]
- │   ├── metaverse_ve_yeni_heterotopyalar.md   [YENİ]
- │   └── makale_sablonu.md
- │
- ├── 📂 assets/                            [YENİ]
- ├── 📚 KAYNAKCA.md
- ├── 🤝 KATKI_REHBERI.md
- └── README.md
-```
+### 🔸 [04] Modern Panoptikon ve Dijital Çağ
+*Foucaultyen merceğin 21. yüzyıl teknolojilerine ve krizlerine uygulanması.*
+* **Algoritmik Tahakküm:** Veri madenciliği ve yeni biyopolitika.
+* **AI & Blockchain:** Otomatik hakikat rejimleri ve protokol iktidarı.
 
 ---
 
-## 📚 Temel Okuma Listesi (Referanslar)
+## 🧭 Navigasyon Rehberi (Navigation Guide)
 
-Bu atölyedeki çalışmalar aşağıdaki başucu eserlerinden beslenmektedir:
-* *Deliliğin Tarihi* | *Kelimeler ve Şeyler* | *Bilginin Arkeolojisi*
-* *Hapishanenin Doğuşu* | *Cinselliğin Tarihi* | *Biyopolitikanın Doğuşu*
+1.  📖 **[01_Kavramlar_Sistematigi](01_Kavramlar_Sistematigi):** Temel kavramlar, sözlük ve zaman çizelgesi.
+2.  📂 **[02-04 Seviye Klasörleri](.):** Kazı alanları ve soyağacı çalışmaları.
+3.  🔍 **[05_Solem_Analizleri_ve_Denemeler](05_Solem_Analizleri_ve_Denemeler):** Güncel vaka çalışmaları ve bağımsız denemeler.
+4.  📚 **[KAYNAKCA.md](KAYNAKCA.md):** Atıf yapılan tüm akademik kaynakların listesi.
+5.  🚀 **[ROADMAP.md](ROADMAP.md):** Projenin gelecek planları ve kilometre taşları.
 
-Detaylı liste için [KAYNAKCA.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/Panoptikon-Atolyesi/KAYNAKCA.md) dosyasını inceleyin.
+---
 
-## 🤝 Katkı (Contribution)
+## 🔬 Metodolojik Yaklaşım
+Atölye içerisindeki her analiz şu üçlü filtreden geçer:
+1.  **Arkeoloji:** Bilgiyi mümkün kılan tarihsel koşulların kazılması.
+2.  **Soykütük:** Değerlerin ve normların kökenindeki iktidar savaşlarının ifşası.
+3.  **Söylem Analizi:** Hakikat rejimlerinin nasıl inşa edildiğinin dilsel yapıbozumu.
 
-Bu depo statik bir belge değil, organik bir "dijital bahçe"dir. Katkı sağlamak için [KATKI_REHBERI.md](file:///g:/Di%C4%9Fer%20bilgisayarlar/Diz%C3%BCst%C3%BC%20Bilgisayar%C4%B1m/github%20repolar%C4%B1m/Panoptikon-Atolyesi/KATKI_REHBERI.md) dosyasını inceleyebilirsiniz.
+---
 
-*Söylemi değiştiren, iktidarı sarsar.*
+## 📚 Kaynakça ve Referanslar
+Bu külliyat oluşturulurken Foucault'nun ana metinleri ve Collège de France dersleri referans alınmıştır. Tüm akademik liste için [KAYNAKCA.md](KAYNAKCA.md) dosyasına bakınız.
+
+---
+*Bu çalışma, görünmez iktidar mekanizmalarını görünür kılmak adına yürütülen sürekli bir felsefi şantiyedir.*
