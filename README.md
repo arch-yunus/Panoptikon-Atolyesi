@@ -1,4 +1,6 @@
-![Panoptikon Atölyesi Banner](panopticon_banner.jpg)
+<p align="center">
+  <img src="assets/panopticon_banner.jpg" alt="Panoptikon Atölyesi Banner" width="100%">
+</p>
 
 # 👁️ Panoptikon-Atölyesi
 
@@ -30,7 +32,7 @@ Bu atölyenin temel amacı:
 Bu çalışma alanı, rastgele notlardan değil, Foucault'nun düşünce sistematiğini taşıyan ana kolonlar üzerinden yükselir:
 
 ### 1. Panoptikon ve Disiplin Toplumu
-Jeremy Bentham'ın mimari hapishane modelinden ilham alan Foucault, bunu modern toplumun metaforu olarak kullanır. Panoptikon'da merkezdeki kulenin görünmez gözü, mahkumu her an izlendiğine inandırır. Sonuçta dışsal baskıya gerek kalmaz; mahkum (veya modern birey) kendi kendini denetleyen bir gardiyana dönüşür.
+Jeremy Bentham'ın mimari hapishane modelinden ilham alan Foucault, bunu modern toplumun metaforu olarak kullanır. Panoptikon'da merkezdeki kulenin görünmez gözü, mahkumu her an izlendiğine inandırır.
 
 ### 2. İktidar-Bilgi (Power/Knowledge) Matrisi
 Bilgi asla yansız veya masum değildir. İktidar, kendini meşrulaştırmak için bilgiyi üretirken; üretilen bilgi de iktidarın etki alanını genişletir.
@@ -48,8 +50,9 @@ Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olara
 📂 Panoptikon-Atolyesi/
  │
  ├── 📂 01_Kavramlar_Sistematigi/   
- │   ├── foucault_term_sozlugu.md          [YENİ]
- │   ├── entelektuel_zaman_cizelgesi.md    [YENİ]
+ │   ├── foucault_term_sozlugu.md
+ │   ├── entelektuel_zaman_cizelgesi.md
+ │   ├── parrhesia_ve_hakikat.md           [YENİ]
  │   ├── iktidar_bilgi_matrisi.md
  │   ├── biyo-iktidar_ve_nufus.md
  │   ├── heterotopya_mekanlari.md
@@ -58,30 +61,36 @@ Repository, belirli felsefi odaklara ve kazı alanlarına göre sistematik olara
  ├── 📂 02_Arkeolojik_Kazilar/       
  │   ├── kelimeler_ve_seyler_notlari.md
  │   ├── bilginin_arkeolojisi_ozet.md
- │   ├── klinigin_dogusu_analiz.md         [YENİ]
+ │   ├── klinigin_dogusu_analiz.md
  │   └── deliligin_tarihi_analiz.md
  │
  ├── 📂 03_Soykutuk_Arastirmalari/    
  │   ├── hapishanenin_dogusu_ve_disiplin.md
  │   ├── cinselligin_tarihi_ve_itiraf.md
- │   ├── guvenlik_toprak_nufus_ozet.md      [YENİ]
- │   ├── biyopolitikanin_dogusu_notlar.md   [YENİ]
+ │   ├── yonetimsellik_evrimi.md           [YENİ]
+ │   ├── guvenlik_toprak_nufus_ozet.md
+ │   ├── biyopolitikanin_dogusu_notlar.md
  │   └── ceza_ve_gozetim_mekanizmalari.md
  │
  ├── 📂 04_Modern_Panoptikon_ve_Dijital_Cag/  
  │   ├── veri_madenciligi_ve_biyopolitika.md
  │   ├── algoritmik_tahakkum.md
- │   ├── pandemi_ve_biyo-iktidar_analizi.md [YENİ]
- │   ├── akilli_sehirler_ve_gozetim.md      [YENİ]
+ │   ├── yapay_zeka_ve_soylem_uretimi.md    [YENİ]
+ │   ├── blockchain_ve_merkeziyetsiz_iktidar.md [YENİ]
+ │   ├── pandemi_ve_biyo-iktidar_analizi.md
+ │   ├── akilli_sehirler_ve_gozetim.md
  │   └── sosyal_medya_ve_gonullu_gozetim.md
  │
  ├── 📂 05_Solem_Analizleri_ve_Denemeler/  
- │   ├── sosyal_kredi_sistemleri_deneme.md  [YENİ]
- │   ├── uzaktan_calisma_ve_dijital_disiplin.md [YENİ]
+ │   ├── sosyal_kredi_sistemleri_deneme.md
+ │   ├── uzaktan_calisma_ve_dijital_disiplin.md
+ │   ├── dijital_izolasyon_ve_psikopolitika.md [YENİ]
+ │   ├── metaverse_ve_yeni_heterotopyalar.md   [YENİ]
  │   └── makale_sablonu.md
  │
- ├── 📚 KAYNAKCA.md                       [YENİ]
- ├── 🤝 KATKI_REHBERI.md                   [YENİ]
+ ├── 📂 assets/                            [YENİ]
+ ├── 📚 KAYNAKCA.md
+ ├── 🤝 KATKI_REHBERI.md
  └── README.md
 ```
 
